@@ -1,6 +1,6 @@
 ### Data Pipeline Analysing Brazilian E-commerce, Olist Dataset
 
-![A screenshot of the Dashboard]([images/screenshot.png](https://github.com/Gowry-CS/olist-data-engineering-project/blob/main/Dashboard/Vendor%20Performance%20Dashboard.png))
+![A screenshot of the Dashboard]([Dashboard/Vendor%20Performance%20Dashboard.png]
 
 **Goal**
 
