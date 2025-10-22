@@ -1,6 +1,6 @@
 ### Data Pipeline Analysing Brazilian E-commerce, Olist Dataset
 
-![A screenshot of the Dashboard](Dashboard/Vendor Performance Dashboard.png)
+!(Dashboard/Vendor Performance Dashboard.png)
 
 **Goal**
 
