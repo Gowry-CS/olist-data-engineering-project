@@ -1,4 +1,6 @@
+<center>
 ### Data Pipeline Analysing Brazilian E-commerce, Olist Dataset
+</center>
 
 <img src="Dashboard/Vendor Performance Dashboard.png" alt="Dashboard">
 
